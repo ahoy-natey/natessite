@@ -2,6 +2,7 @@
   "name": "natessite",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ahoy-natey.github.io/natessite",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
@@ -37,7 +38,8 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://ahoy-natey.github.io/natessite"
+    ]
+    
   }
+  
 }
